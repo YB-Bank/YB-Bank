@@ -10,11 +10,14 @@
 ## 👋 HI I'M YOUSSEF
 
 About Me:
-"A hands-on Physics & Electronics student dedicated to transforming theoretical logic into functional hardware solutions.
+A hands-on Physics & Electronics student dedicated to transforming theoretical logic into functional hardware solutions.
 Specializing in Embedded C/C++ and Python, with practical experience in simulating complex systems using MATLAB/Simulink and Proteus.
-​🛠️ Hardware: ESP32, Arduino, Sensors Interfacing, IoT Architecture.
+​
+🛠️ Hardware: ESP32, Arduino, Sensors Interfacing, IoT Architecture.
+
 ​💻 Software: Automation scripts, No-Code workflows, Data simulation.
-​🚀 Currently building a robust portfolio of smart systems to solve real-world industrial and automation challenges."
+
+​🚀 Currently building a robust portfolio of smart systems to solve real-world industrial and automation challenges.
 
 ---
 
