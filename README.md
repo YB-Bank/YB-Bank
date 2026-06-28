@@ -25,7 +25,7 @@ and Proteus.
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=youssef-el-bahhraoui&style=flat-square&color=0078d4&label=PROFILE+VIEWS)](https://github.com/youssef-el-bahhraoui)
+![Profile Views](https://komarev.com/ghpvc/?username=youssef-el-bahhraoui&style=flat-square&color=0078d4&label=PROFILE+VIEWS)]
 
 </div>
 
