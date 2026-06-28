@@ -48,7 +48,7 @@ Specializing in **Embedded C/C++** and **Python**, with practical experience in 
 
 ## ⚡ Core Fields & Developer Identity
 
-```cpp
+``cpp
 struct EmbeddedEngineer {
     std::vector<std::string> fields     = { "Robotics", "Automation", "IoT Architecture", "AI Basics" };
     std::vector<std::string> core_tech  = { "Embedded C++", "Python Scripts", "MATLAB Control Systems" };
