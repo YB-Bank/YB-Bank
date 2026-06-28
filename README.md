@@ -17,7 +17,7 @@ and Proteus.
 
 🛠️ Hardware: ESP32, Arduino, Sensors Interfacing, IoT Architecture, circuit Design.
 
-​💻 Software: Automation scripts, No-Code workflows, Data simulation.
+​💻 Software & Languqges: Embedded C++,VHDL(Basics), Automation scripts,Automgen(Grafcet), No-Code workflows, Data simulation.
 
 ​🚀 Currently building a robust portfolio of smart systems to solve real-world industrial and automation challenges.
 
