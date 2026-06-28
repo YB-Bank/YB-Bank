@@ -15,7 +15,7 @@ Specializing in Embedded C/C++ and Python, with practical experience in simulati
 and Proteus.
 
 
-🛠️ Hardware: ESP32, Arduino, Sensors Interfacing, IoT Architecture.
+🛠️ Hardware: ESP32, Arduino, Sensors Interfacing, IoT Architecture, circuit Design.
 
 ​💻 Software: Automation scripts, No-Code workflows, Data simulation.
 
@@ -25,13 +25,13 @@ and Proteus.
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Youssef&style=flat&color=blue&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=youssef-el-bahhraoui&style=flat-square&color=0078d4&label=PROFILE+VIEWS)](https://github.com/youssef-el-bahhraoui)
 
 </div>
 
 ---
 
-## 🛠 الأدوات اللي كنستعمل
+## 🛠 Tech Stack & Tools
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
@@ -47,7 +47,7 @@ and Proteus.
 
 ---
 
-## ⚡ المجالات اللي كنخدم عليها
+## ⚡ Core fields & Developer identity
 
 
 class AboutMe {
