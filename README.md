@@ -25,7 +25,7 @@ and Proteus.
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=youssef-el-bahraoui&style=flat-square&color=0078d4&label=PROFILE+VIEWS)]
+![Profile Views](https://komarev.com/ghpvc/?username=YB-Bank&style=flat-square&color=0078d4&label=PROFILE+VIEWS)]
 
 </div>
 
@@ -87,18 +87,18 @@ I’m currently learning **Python & Web Development**.
 
 | Project Name | Tech Stack | Status | Links |
 | :--- | :--- | :--- | :--- |
-| **🤖 Interactive ESP32 Robot** | ESP32, C++, OLED, DFPlayer | 🚀 Completed | [Code](https://github.com/youssef-el-bahhraoui) \ | [Simulation Video](#) |
-| **🚗 Smart Parking System** | Arduino, IR Sensors, LiquidCrystal | 🛠️ In Progress | [Code](https://github.com/youssef-el-bahhraoui) |
+| **🤖 Interactive ESP32 Robot** | ESP32, C++, OLED, DFPlayer | 🚀 Completed | [Code](https://github.com/YB-Bank) \ | [Simulation Video](#) |
+| **🚗 Smart Parking System** | Arduino, IR Sensors, LiquidCrystal | 🛠️ In Progress | [Code](https://github.com/YB-Bank) |
 | **🌱 Smart Plant Watering System** | Automation, Sensors, Python | 📅 Upcoming | [Design](#) |
 
 
 ​<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=youssef-el-bahraoui&show_icons=true&theme=nord&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-el-bahraoui&layout=compact&theme=nord&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=YB-Bank&show_icons=true&theme=nord&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YB-Bank&layout=compact&theme=nord&count_private=true" width="48%" />
 
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-el-bahraoui&theme=nord" width="97%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YB-Bank&theme=nord" width="97%" />
 </div>
 ​The Code Cycle
 ​<div align="center">
