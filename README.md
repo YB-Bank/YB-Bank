@@ -3,7 +3,7 @@
   
   <img width="800" height="150" alt="ChatGPT Image Jul 2, 2026, 04_53_16 PM" src="https://github.com/user-attachments/assets/e5e1eb8d-d228-4142-8231-5297d79077d9" />
 
-<be><br>
+<be>
 
   <img src="https://github.com/user-attachments/assets/f623db7e-f0cd-443c-b1af-f0d0940b44aa" width="800" alt="Technology Animation" />
 
