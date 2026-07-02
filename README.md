@@ -3,9 +3,10 @@
   
  
 
-  <img src="https://github.com/user-attachments/assets/8b6df9d8-1caa-4c8c-bf01-2bdbc8db49a7" width="62%" alt="Technology Animation" />
+  <img src="https://github.com/user-attachments/assets/c4467448-6f05-44e2-b4ee-9bd40af5d148" width="62%" alt="Technology Animation" />
 
 </div>
+
 
 
 
