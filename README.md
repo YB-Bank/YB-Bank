@@ -1,19 +1,9 @@
-
-
 <div align="center">
 
-  <!-- 1. البانر الاحترافي الجديد ديالك (ارفع الصورة اللي عجباتك وحط الرابط ديالها هنا) -->
-  <img src="https://github.com/user-attachments/assets/ca8bb2ba-469b-42e3-8ca8-b85bfcb2ea6e" width="100%"/> 
-  
-  <br>
-
-  <!-- 2. كود عداد الزيارات الحي (Dynamic Views Counter) مربوط بحسابك YB-Bank -->
-  <img src="https://komarev.com/ghpvc/?username=YB-Bank&color=00bfff&style=plastic&label=PROFILE+VIEWS" alt="YB-Bank Profile Views" />
+  <!-- الـ GIF التكنولوجي المتحرك -->
+  <img src="[attachment_0](attachment)" width="100%" alt="Technology Animation" />
 
 </div>
-
-
-
 
 
 ---
