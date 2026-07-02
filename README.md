@@ -1,12 +1,9 @@
 <div align="center" width="50">
     
-<!-- استبدل هذا السطر برابط الصورة الجديدة الخاصة بك -->
- <br>
-    
-<img src="https://github.com/SP-XD/YB-Bank/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/><br> 
+<img src="https://github.com/user-attachments/assets/e253267a-86e4-475d-9d27-bd50098cfe41" width="60%"/>
 
 </div>
+
 
 
 
