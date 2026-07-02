@@ -1,6 +1,10 @@
 <div align="center" width="50">
     
-<img src="https://github.com/user-attachments/assets/e253267a-86e4-475d-9d27-bd50098cfe41" width="100%" height="100%"/>
+<img src="https://github.com/user-attachments/assets/e253267a-86e4-475d-9d27-bd50098cfe41" width="100%" height="100%" <div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=YB-Bank&style=flat-square&color=0078d4&label=PROFILE+VIEWS)
+
+</div>/>
 
 </div>
 
