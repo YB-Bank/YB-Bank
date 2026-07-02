@@ -8,7 +8,7 @@
   <br>
 
   <!-- 2. كود عداد الزيارات الحي (Dynamic Views Counter) مربوط بحسابك YB-Bank -->
-  <img src="https://komarev.com/ghpvc/?username=YB-Bank&color=00bfff&style=for-the-badge&label=PROFILE+VIEWS" alt="YB-Bank Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=YB-Bank&color=00bfff&style=plastic&label=PROFILE+VIEWS" alt="YB-Bank Profile Views" />
 
 </div>
 
