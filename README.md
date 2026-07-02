@@ -1,14 +1,16 @@
-<div align="center" width="50">
-    
-<img src="https://github.com/user-attachments/assets/e253267a-86e4-475d-9d27-bd50098cfe41" width="100%" height="100%" <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YB-Bank&style=flat-square&color=0078d4&label=PROFILE+VIEWS)
 
-</div>/>
+<div align="center">
+
+  <!-- 1. البانر الاحترافي الجديد ديالك (ارفع الصورة اللي عجباتك وحط الرابط ديالها هنا) -->
+  <img src="https://raw.githubusercontent.com/YB-Bank/YB-Bank/main/images/your_new_banner.png" width="100%"/> 
+  
+  <br>
+
+  <!-- 2. كود عداد الزيارات الحي (Dynamic Views Counter) مربوط بحسابك YB-Bank -->
+  <img src="https://komarev.com/ghpvc/?username=YB-Bank&color=00bfff&style=flat-square&label=PROFILE+VIEWS" alt="YB-Bank Profile Views" />
 
 </div>
-
-
 
 
 
