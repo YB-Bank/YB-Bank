@@ -1,16 +1,15 @@
 <div align="center">
 
   
-
-<img width="600" height="300" alt="ChatGPT Image Jul 2, 2026, 04_53_16 PM" src="https://github.com/user-attachments/assets/94a7046d-de1e-4eae-83e1-858202522bd4" />
-
-
+  <img width="1867" height="474" alt="ChatGPT Image Jul 2, 2026, 04_53_16 PM" src="https://github.com/user-attachments/assets/e5e1eb8d-d228-4142-8231-5297d79077d9" />
 
 <be>
 
   <img src="https://github.com/user-attachments/assets/f623db7e-f0cd-443c-b1af-f0d0940b44aa" width="62%" alt="Technology Animation" />
 
 </div>
+
+
 
 
 
