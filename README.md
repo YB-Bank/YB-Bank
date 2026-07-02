@@ -1,9 +1,10 @@
 <div align="center">
 
   <!-- الـ GIF التكنولوجي المتحرك -->
-  <img src="[attachment_0](attachment)" width="100%" alt="Technology Animation" />
+  <img src="https://github.com/user-attachments/assets/157a88f8-1f9f-4b50-8aba-9e8fc7cab6d1" width="100%" alt="Technology Animation" />
 
 </div>
+<img width="500" height="281" alt="giphy" src="https://github.com/user-attachments/assets/157a88f8-1f9f-4b50-8aba-9e8fc7cab6d1" />
 
 
 ---
