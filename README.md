@@ -5,7 +5,7 @@
 
 <be>
 
-  <img src="https://github.com/user-attachments/assets/f623db7e-f0cd-443c-b1af-f0d0940b44aa" width="62%" alt="Technology Animation" />
+  <img src="https://github.com/user-attachments/assets/f623db7e-f0cd-443c-b1af-f0d0940b44aa" width="64%" alt="Technology Animation" />
 
 </div>
 
