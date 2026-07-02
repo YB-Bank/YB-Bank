@@ -3,7 +3,7 @@
 <div align="center">
 
   <!-- 1. البانر الاحترافي الجديد ديالك (ارفع الصورة اللي عجباتك وحط الرابط ديالها هنا) -->
-  <img src="https://raw.githubusercontent.com/YB-Bank/YB-Bank/main/images/your_new_banner.png" width="100%"/> 
+  <img src="https://github.com/user-attachments/assets/ca8bb2ba-469b-42e3-8ca8-b85bfcb2ea6e" width="100%"/> 
   
   <br>
 
