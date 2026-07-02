@@ -25,7 +25,7 @@ and Proteus.
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YB-Bank&style=flat-square&color=0078d4&label=PROFILE+VIEWS)]
+![Profile Views](https://komarev.com/ghpvc/?username=YB-Bank&style=flat-square&color=0078d4&label=PROFILE+VIEWS)
 
 </div>
 
