@@ -3,7 +3,7 @@
   
  
 
-  <img src="https://github.com/user-attachments/assets/c4467448-6f05-44e2-b4ee-9bd40af5d148" width="62%" alt="Technology Animation" />
+  <img src="https://github.com/user-attachments/assets/f623db7e-f0cd-443c-b1af-f0d0940b44aa" width="62%" alt="Technology Animation" />
 
 </div>
 
