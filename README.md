@@ -1,12 +1,12 @@
 <div align="center">
 
   
-  <img src="https://github.com/user-attachments/assets/95dc8bac-a6f0-40f4-b529-41282b8c7854" width="50%" alt="Technology Animation" />
-  <br>
+ 
 
-  <img src="https://github.com/user-attachments/assets/157a88f8-1f9f-4b50-8aba-9e8fc7cab6d1" width="100%" alt="Technology Animation" />
+  <img src="https://github.com/user-attachments/assets/8b6df9d8-1caa-4c8c-bf01-2bdbc8db49a7" width="100%" alt="Technology Animation" />
 
 </div>
+
 
 
 
