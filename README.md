@@ -87,9 +87,9 @@ I’m currently learning **Python & Web Development**.
 
 | Project Name | Tech Stack | Status | Links |
 | :--- | :--- | :--- | :--- |
-| **🤖 Interactive ESP32 Robot** | ESP32, C++, OLED, DFPlayer | 🛠️ In Progress | [Code](https://github.com/YB-Bank/Smart-Plant-Watering-System)|
-| **🚗 Smart Parking System** | Arduino, IR Sensors, LiquidCrystal | 🚀 Completed | [Code](https://github.com/YB-Bank/Smart-Parking-System.)|
-| **🌱 Smart Plant Watering System** | Arduino,Analog Sensors, Led, LiquidCrystal, C++ | 🚀 Completed | [Design](#) |
+| **🤖 Interactive ESP32 Robot** | ESP32, C++, OLED, DFPlayer | 🛠️ In Progress | [Design and Code](https://gitfhub.com/YB-Bank/Smart-Plant-Watering-System)|
+| **🚗 Smart Parking System** | Arduino, IR Sensors, LiquidCrystal | 🚀 Completed | [Design and Code](https://github.com/YB-Bank/Smart-Parking-System)|
+| **🌱 Smart Plant Watering System** | Arduino,Analog Sensors, Led, LiquidCrystal, C++ | 🚀 Completed | [Design and Code](https://github.com/YB-Bank/Smart-Plant-Watering-System) |
 
 
 ​<div align="center">
