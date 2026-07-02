@@ -1,7 +1,7 @@
 <div align="center">
 
   
-<img width="1280" height="582" alt="WhatsApp Image 2026-07-02 at 16 47 23" src="https://github.com/user-attachments/assets/dc4f1849-54eb-49fa-a039-7cff1cf55793" />
+<img width="500" height="100" alt="WhatsApp Image 2026-07-02 at 16 47 23" src="https://github.com/user-attachments/assets/dc4f1849-54eb-49fa-a039-7cff1cf55793" />
 
 
 <be>
