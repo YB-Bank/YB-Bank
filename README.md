@@ -1,12 +1,17 @@
 <div align="center" width="50">
     
 <!-- استبدل هذا السطر برابط الصورة الجديدة الخاصة بك -->
-![I'm Youssef El Bahraoui](https://raw.githubusercontent.com/YB-Bank/YB-Bank/main/I'm%20Youssef%20El%20Bahraoui.png) <br>
+![I'm Youssef El Bahraoui](https://github.com/user-attachments/assets/afff3200-8866-49db-bad1-3cc69964bd52) <br>
     
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/><br> 
 
 </div>
+
+
+<img width="1920" height="1080" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/afff3200-8866-49db-bad1-3cc69964bd52" />
+
+
 
 ---
 
