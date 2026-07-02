@@ -1,10 +1,13 @@
 <div align="center">
 
-  <!-- الـ GIF التكنولوجي المتحرك -->
+  
+  <img src="https://github.com/user-attachments/assets/95dc8bac-a6f0-40f4-b529-41282b8c7854" width="100%" height="10%" alt="Technology Animation" />
+  <br>
+
   <img src="https://github.com/user-attachments/assets/157a88f8-1f9f-4b50-8aba-9e8fc7cab6d1" width="100%" alt="Technology Animation" />
 
 </div>
-<img width="500" height="281" alt="giphy" src="https://github.com/user-attachments/assets/157a88f8-1f9f-4b50-8aba-9e8fc7cab6d1" />
+
 
 
 ---
