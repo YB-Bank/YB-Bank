@@ -1,13 +1,29 @@
+
+https://github.com/user-attachments/assets/99f77dc6-a1dc-45b8-aee9-5e3c30f4a178
 <div align="center">
 
   
-  <img width="800" height="150" alt="ChatGPT Image Jul 2, 2026, 04_53_16 PM" src="https://github.com/user-attachments/assets/e5e1eb8d-d228-4142-8231-5297d79077d9" />
+  
 
-<be>
+  
+
+  <video src="https://github.com/user-attachments/assets/d9022c31-0f05-4dce-8419-1a1e7650c858" width="800" autoplay loop muted playsinline />
+
+
+
+
+
+<bR>
 
   <img src="https://github.com/user-attachments/assets/f623db7e-f0cd-443c-b1af-f0d0940b44aa" width="800" alt="Technology Animation" />
 
 </div>
+
+
+
+
+
+
 
 
 ---
