@@ -1,15 +1,8 @@
 <div align="center">
 
-  
-  
-
-https://github.com/user-attachments/assets/999d914e-d0e3-47e4-bb29-a5e16d36d8b8
+  <img width="800" height="169" alt="ezgif-5a0745acb2ebc1e2" src="https://github.com/user-attachments/assets/052dc708-c632-4094-8e9b-8663ed9ad5d6" />
 
 
-
-  
-
- 
 
 <bR>
 
