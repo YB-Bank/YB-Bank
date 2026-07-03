@@ -3,15 +3,12 @@ https://github.com/user-attachments/assets/99f77dc6-a1dc-45b8-aee9-5e3c30f4a178
 <div align="center">
 
   
+  <img width="800" height="150" alt="ezgif-8c1de9b3d43e6d18" src="https://github.com/user-attachments/assets/171db21b-026f-47c5-b125-6d62d88d60f0" />
+
+
   
 
-  
-
-  <video src="https://github.com/user-attachments/assets/d9022c31-0f05-4dce-8419-1a1e7650c858" width="800" autoplay loop muted playsinline />
-
-
-
-
+ 
 
 <bR>
 
